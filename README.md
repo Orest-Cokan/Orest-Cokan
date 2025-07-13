@@ -15,7 +15,7 @@
 
 
 ### 🌐 About Me  
-I'm passionate about creating **business value through engineering; **whether it's cutting costs, improving performance, or enabling new capabilities. I specialize in building **reliable, resilient, and scalable systems** in the cloud, with a strong focus on **observability, automation, and maintainability**.
+I'm passionate about creating **business value through engineering** — whether it's cutting costs, improving performance, or enabling new capabilities. I specialize in building **reliable, resilient, and scalable distributed microservice systems** in the cloud, with a strong focus on **observability, automation, and maintainability**.
 
 I enjoy solving **complex and novel problems**, from designing clean service architectures to optimizing infrastructure spend through efficient use of IaC (Terraform/Pulumi), serverless, and autoscaling solutions.
 
